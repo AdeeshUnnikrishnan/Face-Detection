@@ -18,7 +18,7 @@ Basically a Cascade Classifier tells OpenCv to 'what to look for in an image'.
 A Haar Cascade Classifier takes positive and negative images to train the classifier.
 where,
 Positive Image - Only them images which we want to identify or classify
-Negative Image - The images we do not wnat to Classify
+Negative Image - The images we do not want to Classify
 
 ## Parameter Tuning 
 
